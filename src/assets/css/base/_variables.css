@@ -1,0 +1,39 @@
+/* Test variables */
+$mainBlue: #37b6ff;
+$mainOrange: #edb337;
+
+/* To be adjusted */
+$navbarHeight: 80px;
+
+$appBlue: #364f6b;
+$appLightGreen: #3fc1c9;
+$appLightYellow: #fce38a;
+$appLightPink: #fc5185;
+$appCream: #ececeb;
+$transparentLightGreen: rgba(63, 193, 201, 0.3);
+
+$textColor: #251d3a;
+$borderColor: #e04d01;
+$innerBackgroundColor: #ff7700;
+$bckgroundColor: #2a2550;
+
+:root {
+	/*
+	--primary-color-1: $appLightGreen;
+	--primary-color-2: $appLightYellow;
+	--primary-color-3: $appLightPink;
+	*/
+	
+	--primary-color-1: #ede465;
+	/* --primary-color-2: #f35e5e; */ /* Fonts color */
+	--primary-color-2: #e6e6e6; /* Fonts color */
+	--primary-color-3: #ede465;
+	--primary-color-4: #f35e5e;
+	
+	--secondary-color-1: #f35e5e;
+	--secondary-color-2: #008ae6;
+
+	--white-color: $appCream;
+	--background-color: #404040;
+	--background-secondary-color: #595959;
+}
